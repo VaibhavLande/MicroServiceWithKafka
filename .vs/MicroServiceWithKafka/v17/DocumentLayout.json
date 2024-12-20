@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\orderservice\\kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\kafka.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\productservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|solutionrelative:productservice\\kafka\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|solutionrelative:productservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\orderservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\kafka\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44FDA02-0BE0-4F4C-AAFC-C52AADCADB04}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|c:\\project\\study\\microservice\\microservicewithkafka\\microservicewithkafka\\productservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8531B-C19D-4EF0-84FA-8EFD5FF2A759}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kafka.yml",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\kafka.yml",
+              "RelativeDocumentMoniker": "OrderService\\kafka.yml",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\kafka.yml",
+              "RelativeToolTip": "OrderService\\kafka.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-20T09:44:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService\\appsettings.json",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\appsettings.json",
+              "RelativeToolTip": "ProductService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T09:27:41.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:27:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\ProductService.csproj",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.csproj",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\ProductService.csproj",
+              "RelativeToolTip": "ProductService\\ProductService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T09:26:26.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\Kafka\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "ProductService\\Kafka\\KafkaConsumer.cs",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\Kafka\\KafkaConsumer.cs",
+              "RelativeToolTip": "ProductService\\Kafka\\KafkaConsumer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:26:49.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:25:55.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\Kafka\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "OrderService\\Kafka\\KafkaProducer.cs",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\Kafka\\KafkaProducer.cs",
+              "RelativeToolTip": "OrderService\\Kafka\\KafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:25:41.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\ProductService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:25:12.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Project\\Study\\Microservice\\MicroServiceWithKafka\\MicroServiceWithKafka\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:24:28.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
